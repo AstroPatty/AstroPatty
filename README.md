@@ -24,7 +24,7 @@ I am an astrophysicist and software enginner building the tools to do science at
 😄 He/Him
 
 ## Find me online
-🏠  &nbsp;&nbsp; [astropatty.com](astropatty.com)\
+🏠  &nbsp;&nbsp;&nbsp; [astropatty.com](astropatty.com)\
 <img align="left" height=20 width=20 src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">[linkedin.com/in/astropatty](https://www.linkedin.com/in/astropatty/)\
-📺 &nbsp;&nbsp;&nbsp;[youtube.com/astropatty](https://www.youtube.com/@astropatty5346)
+📺 &nbsp;&nbsp;&nbsp;&nbsp;[youtube.com/astropatty](https://www.youtube.com/@astropatty5346)
 <!--<a href="https://www.linkedin.com/in/astropatty/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" target="_blank"></a>-->
