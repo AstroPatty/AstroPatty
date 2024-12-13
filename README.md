@@ -23,6 +23,13 @@ I am an astrophysicist and software enginner building the tools to do science at
 💼 Argonne National Laboratory \
 😄 He/Him
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Find me online
 🏠  &nbsp;&nbsp;&nbsp; [astropatty.com](astropatty.com)\
 <img align="left" height=20 width=20 src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">[linkedin.com/in/astropatty](https://www.linkedin.com/in/astropatty/)\
