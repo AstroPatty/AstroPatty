@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroPatty&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=graphity&hide=jupyter%20notebook&theme=tokyonight">
-I am an astrophysicist and software enginner building the tools to do science at scale.
+I am an astrophysicist and software enginner building the tools to do science at scale. I am passionate about building quality software that lets scientists focus on science.
+<br>
+<br>
 
-📍 Chicago\
-💼 Argonne National Laboratory
+📍 Chicago  \
+💼 Argonne National Laboratory \
+😄 He/Him
 
-<a href="https://www.linkedin.com/in/astropatty/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" target="_blank"></a>
+## Find me online
+🏠  &nbsp;&nbsp; [astropatty.com](astropatty.com)\
+<img align="left" height=20 width=20 src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">[linkedin.com/in/astropatty](https://www.linkedin.com/in/astropatty/)\
+📺 &nbsp;&nbsp;&nbsp;[youtube.com/astropatty](https://www.youtube.com/@astropatty5346)
+<!--<a href="https://www.linkedin.com/in/astropatty/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" target="_blank"></a>-->
