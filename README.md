@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am an astrophysicist and software enginner at Argonne National Laboratory where I build tools to do science at scale
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroPatty&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=graphity&hide=jupyter%20notebook&theme=tokyonight">
+I am an astrophysicist and software enginner building the tools to do science at scale.
 
-Current Employer: Argonne National Laboratory\
-Current Job: Postdoctoral Appointeee
+📍 Chicago\
+💼 Argonne National Laboratory
 
-[![Top Langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=AstroPatty&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=graphity&hide=jupyter%20notebook&theme=tokyonight&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.linkedin.com/in/astropatty/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" target="_blank"></a>
