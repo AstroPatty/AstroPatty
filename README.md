@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am an astrophysicist and software enginner building tools to do science at scale. I believe that excellent software accelerates discovery by allowing scientists to focus on science, not getting their code to run.
 <br>
 <br>
-The unprecedented scale of upcoming galaxy surveys and simulations will fundamentally change our understanding of the Universe, but only if we have the tools to sift through mountains of data. Analysis tools must be built upon shared infrastructure that is optimized for types of problem astronomers want to solve. Building this infrastructure is fundamentally a technical problem, but providing the right abstractions for scientific work requires deep understanding of the problems scientists want to solve. This layer between <i>data</i> and <i>information</i> is where I focus my work. 
+The unprecedented scale of upcoming galaxy surveys and simulations will fundamentally change our understanding of the Universe, but only if we have the tools to sift through mountains of data. Analysis tools must be built upon shared infrastructure that is optimized for types of problem astronomers want to solve. Building this infrastructure is fundamentally a technical problem, but providing the right abstractions for scientific work requires deep understanding of the questions scientists will ask of the data. This layer between <i>data</i> and <i>information</i> is where I focus my work. 
 <br>
 <br>
 
