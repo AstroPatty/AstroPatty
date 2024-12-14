@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroPatty&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=graphity&hide=jupyter%20notebook&theme=tokyonight">
-I am an astrophysicist and software enginner building the tools to do science at scale. I am passionate about building quality software that lets scientists focus on science.
+I am an astrophysicist and software enginner building tools to do science at scale. I believe that excellent software accelerates discovery by allowing scientists to focus on science, not getting their code to run.
+<br>
+<br>
+The unprecedented scale of upcoming galaxy surveys and simulations will fundamentally change our understanding of the Universe, but only if we have the tools to sift through mountains of data. Analysis tools must be built upon shared infrastructure that is optimized for types of problem astronomers want to solve. Building this infrastructure is fundamentally a technical problem, but providing the right abstractions for scientific work requires deep understanding of the problems scientists want to solve. This layer between _data_ and _information_ is where I focus my work. 
 <br>
 <br>
 
