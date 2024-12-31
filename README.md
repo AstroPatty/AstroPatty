@@ -29,7 +29,7 @@ The unprecedented scale of upcoming galaxy surveys and simulations will fundamen
 
 ## Find me online
 🏠  &nbsp;&nbsp;&nbsp; [astropatty.com](https://astropatty.com)\
-<img align="left" height=20 width=20 src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">&nbsp;[linkedin.com/in/astropatty](https://www.linkedin.com/in/astropatty/)\
-📺 &nbsp;&nbsp;&nbsp;&nbsp;[youtube.com/astropatty](https://www.youtube.com/@astropatty5346)\
-📷 &nbsp;&nbsp;&nbsp;&nbsp;[instagram.com/PatrickRWells](https://www.instagram.com/patrickrwells/)
+<img align="left" height=20 width=20 src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">&nbsp;[linkedin/astropatty](https://www.linkedin.com/in/astropatty/)\
+📺 &nbsp;&nbsp;&nbsp;&nbsp;[youtube/astropatty](https://www.youtube.com/@astropatty5346)\
+📷 &nbsp;&nbsp;&nbsp;&nbsp;[instagram/PatrickRWells](https://www.instagram.com/patrickrwells/)
 <!--<a href="https://www.linkedin.com/in/astropatty/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" target="_blank"></a>-->
