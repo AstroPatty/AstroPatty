@@ -1,29 +1,13 @@
 ## Hi there 👋
 
-<!--
-**AstroPatty/AstroPatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroPatty&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=graphity&hide=jupyter%20notebook&theme=tokyonight">
-I am an astrophysicist and software enginner building tools to do science at scale. I believe that excellent software accelerates discovery by allowing scientists to focus on science, not getting their code to run.
-<br>
-<br>
-The unprecedented scale of upcoming galaxy surveys and simulations will fundamentally change our understanding of the Universe, but only if we have the tools to sift through mountains of data. Analysis tools must be built upon shared infrastructure that is optimized for types of problem astronomers want to solve. Building this infrastructure is fundamentally a technical problem, but providing the right abstractions for scientific work requires deep understanding of the questions scientists will ask of the data. This layer between <i>data</i> and <i>information</i> is where I focus my work. 
-<br>
-<br>
+I am an astrophysicist and software enginner building tools to do science at scale. I am one of the leads of the [OpenCosmo project](https://arxiv.org/html/2607.16059v6), where we build cross-facility data access and intelligent analysis tools for the astrophysics and cosmology community
+
+My main area of focus is data management and analysis orchestration tooling for flagship-class cosmological simualtions and derived data products. I aim to allow users and their AI agents to to access, manipulate, and analyze data at scale through simple, straightforward APIs. Clear and reliable data semantics helps users focus their attention on designing their analysis and doing science, rather than worry about technical details. My primary software project is the [OpenCosmo library](https://argonecpac.github.com/OpenCosmo), which is used in my group and the larger community to analyze simulation data, including the [largest cosmological hydrodynamic simulation ever performed](https://arxiv.org/abs/2510.03557).
+
 
 📍 Chicago  \
-💼 [Argonne National Laboratory](https://www.anl.gov) \
+💼 [Cosmological Physics and Advance Computing Group, Argonne National Laboratory](https://www.anl.gov) \
 😄 He/Him
 
 
