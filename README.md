@@ -1,13 +1,14 @@
 ## Hi there 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroPatty&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=graphity&hide=jupyter%20notebook&theme=tokyonight">
-I am an astrophysicist and software enginner building tools to do science at scale. I am one of the leads of the [OpenCosmo project](https://arxiv.org/html/2607.16059v6), where we build cross-facility data access and intelligent analysis tools for the astrophysics and cosmology community
 
-My main area of focus is data management and analysis orchestration tooling for flagship-class cosmological simualtions and derived data products. I aim to allow users and their AI agents to to access, manipulate, and analyze data at scale through simple, straightforward APIs. Clear and reliable data semantics helps users focus their attention on designing their analysis and doing science, rather than worry about technical details. My primary software project is the [OpenCosmo library](https://argonecpac.github.com/OpenCosmo), which is used in my group and the larger community to analyze simulation data, including the [largest cosmological hydrodynamic simulation ever performed](https://arxiv.org/abs/2510.03557).
+I am an astrophysicist and software engineer building tools to do science at scale. I am one of the leads of the [OpenCosmo project](https://arxiv.org/html/2607.16059v6), where we build cross-facility data access and intelligent analysis tools for the astrophysics and cosmology community
+
+My main area of focus is data management and analysis orchestration tooling for flagship-class cosmological simulations and derived data products. I aim to allow users and their AI agents to access, manipulate, and analyze data at scale through simple, straightforward APIs. Clear and reliable data semantics helps users focus their attention on designing their analysis and doing science, rather than worry about technical details. My primary software project is the [OpenCosmo library](https://github.com/ArgonneCPAC/OpenCosmo), which is used in my group and the larger community to analyze simulation data, including the [largest cosmological hydrodynamic simulation ever performed](https://arxiv.org/abs/2510.03557).
 
 
 📍 Chicago  \
-💼 [Cosmological Physics and Advance Computing Group, Argonne National Laboratory](https://www.anl.gov) \
+💼 [Cosmological Physics and Advanced Computing Group, Argonne National Laboratory](https://www.anl.gov) \
 😄 He/Him
 
 
